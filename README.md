@@ -10,6 +10,7 @@ identify trends and patterns that can aid in improving healthcare outcomes.
 3. HR Analytics: Delving into the world of human resources, with a keen eye
 on data analysis to optimize talent management and organizational
 performance.
+
 These projects, tailored for aspiring data analysts, offer a choice of analytical
 tools including Power BI, SQL, or Tableau to facilitate the extraction of critical
 insights. Through meticulous analysis and a keen understanding of the data,
